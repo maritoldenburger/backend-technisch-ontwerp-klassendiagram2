@@ -1,2 +1,2 @@
-# backend-technisch-ontwerp-klassendiagram2
+# backend-technisch-ontwerp-klassendiagram
 BAC - Klassendiagram (Documentatie les 8)
