@@ -31,3 +31,7 @@
 4. De eigenaar en verkoper moeten binnen één seconde de voorraad en verkoopinformatie kunnen inzien.
 5. De applicatie moet in de toekomst eenvoudig uit te breiden zijn met meer functionaliteiten.
 
+## Klassendiagram
+
+![Klassendiagram](.idea/assets/TechItEasy%20Klassendiagram.PNG)
+
